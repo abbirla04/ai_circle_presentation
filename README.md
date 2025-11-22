@@ -1,6 +1,4 @@
-Draw a circle in the air → instantly show a short explanation popup on screen.
-Lightweight offline demo using OpenCV + MediaPipe. Great interview demo.
-Demo Screenshot
+
 
 What This Project Does
 
@@ -105,8 +103,3 @@ MIT License
 
 Feel free to clone, modify, and extend.
 
-✔️ After you paste this
-
-Click Commit changes (green button at bottom).
-
-Your GitHub repo will now look high quality, clean, and interview-ready
